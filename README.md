@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente não estou trabalhando, apenas cursando a faculdade
-- 🌱 Estudando .NET C#
+- 🌱 Estudando ASP.NET
 - 📫 Email de contato: pedrofboscachi@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Obi Wan é o melhor jedi
